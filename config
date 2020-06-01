@@ -1,0 +1,9 @@
+[core]
+	bare = true
+	repositoryformatversion = 0
+	filemode = false
+	symlinks = false
+	ignorecase = true
+[remote "cloudflaredemo"]
+	url = https://github.com/MoamenAdel/cloudflaredemo.git
+	fetch = +refs/heads/*:refs/remotes/cloudflaredemo/*
